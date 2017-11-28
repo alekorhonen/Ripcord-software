@@ -1,0 +1,16 @@
+
+Ripcord/bin/Debug/proxies.txt
+Ripcord/App.config
+Ripcord/bin/Debug/Ripcord.exe
+Ripcord/bin/Debug/Ripcord.exe.config
+Ripcord/bin/Debug/sources2.txt
+Ripcord/bin/Debug/Ripcord.pdb
+Ripcord/obj/Debug/CoreCompileInputs.cache
+Ripcord/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+*.resources
+*.exe
+*.pdb
+*.cs
+*.CopyComplete
+Ripcord/obj/Debug/Ripcord.csproj.FileListAbsolute.txt
